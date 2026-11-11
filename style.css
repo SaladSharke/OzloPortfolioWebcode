@@ -1,0 +1,21 @@
+/*:root {
+    
+}*/
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.flavortext {
+    color:white;
+    font-size: 80px;
+    margin: 0;
+}
+
+.subtitle {
+   color: white;
+   font-size: 40px;
+   margin-top: 10px; 
+}
